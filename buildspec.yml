@@ -29,4 +29,4 @@ phases:
     post_build:
         commands:
             - echo "We are currently on new post_build phase"
-            - echo "post_build phase activity is completed. Moving to Artifacts Phase"
+            - echo "post_build phase activity is completed. Moving to entire Artifacts Phase"
